@@ -101,3 +101,4 @@ La API Translator Text de Azure permite realizar traducciones de texto de manera
 | ✨ CASTILLO SANABRIA, Francis |  
 | ✨ ESPICHAN QUINTO, Jonathan Javier  |
 | ✨ TORRES VICENTE, Leonardo |
+
